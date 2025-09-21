@@ -1,0 +1,179 @@
+{
+  "total_tasks": 15,
+  "successful_predictions": 15,
+  "success_rate": 1.0,
+  "average_confidence": 0.3,
+  "average_processing_time": 0.0002887090047200521,
+  "tasks_per_second": 3463.69522131689,
+  "transformations_found": {
+    "resize": 5,
+    "unknown": 10
+  },
+  "results": [
+    {
+      "task_id": "0934a4d8",
+      "transformation": "resize",
+      "confidence": 0.7,
+      "prediction_shape": [
+        9,
+        4
+      ],
+      "processing_time": 0.0008747577667236328,
+      "success": true
+    },
+    {
+      "task_id": "135a2760",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        29,
+        29
+      ],
+      "processing_time": 0.0003170967102050781,
+      "success": true
+    },
+    {
+      "task_id": "136b0064",
+      "transformation": "resize",
+      "confidence": 0.7,
+      "prediction_shape": [
+        15,
+        7
+      ],
+      "processing_time": 0.0001251697540283203,
+      "success": true
+    },
+    {
+      "task_id": "13e47133",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        30,
+        30
+      ],
+      "processing_time": 0.00023794174194335938,
+      "success": true
+    },
+    {
+      "task_id": "142ca369",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        18,
+        18
+      ],
+      "processing_time": 0.00027632713317871094,
+      "success": true
+    },
+    {
+      "task_id": "16b78196",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        30,
+        30
+      ],
+      "processing_time": 0.0004916191101074219,
+      "success": true
+    },
+    {
+      "task_id": "16de56c4",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        9,
+        21
+      ],
+      "processing_time": 0.0001456737518310547,
+      "success": true
+    },
+    {
+      "task_id": "1818057f",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        22,
+        22
+      ],
+      "processing_time": 0.00024056434631347656,
+      "success": true
+    },
+    {
+      "task_id": "195c6913",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        30,
+        30
+      ],
+      "processing_time": 0.0003178119659423828,
+      "success": true
+    },
+    {
+      "task_id": "1ae2feb7",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        10,
+        20
+      ],
+      "processing_time": 0.0001919269561767578,
+      "success": true
+    },
+    {
+      "task_id": "20270e3b",
+      "transformation": "resize",
+      "confidence": 0.7,
+      "prediction_shape": [
+        7,
+        8
+      ],
+      "processing_time": 0.00011801719665527344,
+      "success": true
+    },
+    {
+      "task_id": "20a9e565",
+      "transformation": "resize",
+      "confidence": 0.7,
+      "prediction_shape": [
+        3,
+        6
+      ],
+      "processing_time": 0.0002079010009765625,
+      "success": true
+    },
+    {
+      "task_id": "21897d95",
+      "transformation": "resize",
+      "confidence": 0.7,
+      "prediction_shape": [
+        12,
+        16
+      ],
+      "processing_time": 0.00020432472229003906,
+      "success": true
+    },
+    {
+      "task_id": "221dfab4",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        25,
+        25
+      ],
+      "processing_time": 0.000335693359375,
+      "success": true
+    },
+    {
+      "task_id": "247ef758",
+      "transformation": "unknown",
+      "confidence": 0.1,
+      "prediction_shape": [
+        15,
+        20
+      ],
+      "processing_time": 0.00024580955505371094,
+      "success": true
+    }
+  ]
+}
