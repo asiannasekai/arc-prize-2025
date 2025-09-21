@@ -1,0 +1,52 @@
+{
+  "total_tasks": 1000,
+  "distribution": {
+    "tiling": {
+      "count": 77,
+      "percentage": 7.7,
+      "avg_confidence": 0.8558441558441561
+    },
+    "mapping": {
+      "count": 317,
+      "percentage": 31.7,
+      "avg_confidence": 0.8987381703470034
+    },
+    "rule_based": {
+      "count": 5,
+      "percentage": 0.5,
+      "avg_confidence": 0.5
+    },
+    "symmetry": {
+      "count": 367,
+      "percentage": 36.7,
+      "avg_confidence": 0.6
+    },
+    "extraction": {
+      "count": 234,
+      "percentage": 23.400000000000002,
+      "avg_confidence": 0.8478632478632475
+    }
+  },
+  "sorted_by_count": [
+    [
+      "symmetry",
+      367
+    ],
+    [
+      "mapping",
+      317
+    ],
+    [
+      "extraction",
+      234
+    ],
+    [
+      "tiling",
+      77
+    ],
+    [
+      "rule_based",
+      5
+    ]
+  ]
+}

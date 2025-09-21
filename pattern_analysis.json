@@ -1,0 +1,51 @@
+{
+  "total_patterns": 1000,
+  "pattern_distribution": {
+    "tiling": 76,
+    "mapping": 315,
+    "rule_based": 10,
+    "symmetry": 367,
+    "extraction": 232
+  },
+  "kg_statistics": {
+    "total_patterns": 1000,
+    "by_type": {
+      "symmetry": {
+        "count": 367,
+        "avg_size_ratio": 1.0,
+        "avg_complexity": 4.192534059945504
+      },
+      "mapping": {
+        "count": 315,
+        "avg_size_ratio": 1.0,
+        "avg_complexity": 3.4494603174603173
+      },
+      "extraction": {
+        "count": 232,
+        "avg_size_ratio": 0.2095991081543617,
+        "avg_complexity": 2.5582758620689656
+      },
+      "tiling": {
+        "count": 76,
+        "avg_size_ratio": 7.390099045691154,
+        "avg_complexity": 1.2668421052631578
+      },
+      "rule_based": {
+        "count": 10,
+        "avg_size_ratio": 1.3268166357452074,
+        "avg_complexity": 0.8100000000000002
+      }
+    },
+    "overall_stats": {
+      "avg_size_ratio": 1.3055426869217923,
+      "avg_complexity": 3.32314,
+      "min_size_ratio": 0.002066115702479339,
+      "max_size_ratio": 56.25
+    }
+  },
+  "complexity_stats": {
+    "min_complexity": 1.8463232048256406,
+    "max_complexity": 5.19845597045179,
+    "avg_complexity": 3.0407503235055073
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "total_instructions": 3232,
+  "experts": {
+    "tiling_expert": {
+      "tasks": 77,
+      "estimated_instructions": 231
+    },
+    "extraction_expert": {
+      "tasks": 234,
+      "estimated_instructions": 702
+    },
+    "mapping_expert": {
+      "tasks": 317,
+      "estimated_instructions": 951
+    },
+    "symmetry_expert": {
+      "tasks": 367,
+      "estimated_instructions": 1101
+    },
+    "rule_expert": {
+      "tasks": 5,
+      "estimated_instructions": 15
+    }
+  }
+}
